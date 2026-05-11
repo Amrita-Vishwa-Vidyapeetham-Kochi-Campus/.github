@@ -86,7 +86,7 @@ Repositories should preferably include:
 
 ## 📫 Connect With Us
 
-- 🌐 Website: *[amrita.edu Kochi](https://www.amrita.edu/campus/kochi/)*, *[Kochi Campus Intranet](https://intranet.kh.amrita.edu/)*
+- 🌐 Website: *[amrita.edu Kochi](https://www.amrita.edu/school/computing/kochi/)*, *[Kochi Campus Intranet](https://intranet.kh.amrita.edu/)*
 - 📍 Campus: Kochi, Kerala, India
 - 💡 GitHub Organization: *[Amrita Kochi Org](https://github.com/Amrita-Vishwa-Vidyapeetham-Kochi-Campus)*
 
